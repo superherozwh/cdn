@@ -1,0 +1,104 @@
+---> 账号:af85077c-VLESS_TCP/TLS_Vision 
+
+ ---> 通用格式(VLESS+TCP+TLS_Vision) 
+    vless://af85077c-8109-492b-85b1-9bc49270bd58@vvioletss.top:443?encryption=none&security=tls&fp=chrome&type=tcp&host=vvioletss.top&headerType=none&sni=vvioletss.top&flow=xtls-rprx-vision#af85077c-VLESS_TCP/TLS_Vision
+ 
+ ---> 格式化明文(VLESS+TCP+TLS_Vision) 
+协议类型:VLESS，地址:vvioletss.top，端口:443，用户ID:af85077c-8109-492b-85b1-9bc49270bd58，安全:tls，client-fingerprint: chrome，传输方式:tcp，flow:xtls-rprx-vision，账户名:af85077c-VLESS_TCP/TLS_Vision
+ 
+ ---> 二维码 VLESS(VLESS+TCP+TLS_Vision) 
+    https://api.qrserver.com/v1/create-qr-code/?size=400x400&data=vless%3A%2F%2Faf85077c-8109-492b-85b1-9bc49270bd58%40vvioletss.top%3A443%3Fencryption%3Dnone%26fp%3Dchrome%26security%3Dtls%26type%3Dtcp%26vvioletss.top%3Dvvioletss.top%26headerType%3Dnone%26sni%3Dvvioletss.top%26flow%3Dxtls-rprx-vision%23af85077c-VLESS_TCP/TLS_Vision
+ 
+
+================================ VLESS WS TLS CDN ================================
+ 
+
+ ---> 账号:af85077c-VLESS_WS 
+
+ ---> 通用格式(VLESS+WS+TLS) 
+    vless://af85077c-8109-492b-85b1-9bc49270bd58@vvioletss.top:443?encryption=none&security=tls&type=ws&host=vvioletss.top&sni=vvioletss.top&fp=chrome&path=/iexmws#af85077c-VLESS_WS
+ 
+ ---> 格式化明文(VLESS+WS+TLS) 
+    协议类型:VLESS，地址:vvioletss.top，伪装域名/SNI:vvioletss.top，端口:443，client-fingerprint: chrome,用户ID:af85077c-8109-492b-85b1-9bc49270bd58，安全:tls，传输方式:ws，路径:/iexmws，账户名:af85077c-VLESS_WS
+ 
+ ---> 二维码 VLESS(VLESS+WS+TLS) 
+    https://api.qrserver.com/v1/create-qr-code/?size=400x400&data=vless%3A%2F%2Faf85077c-8109-492b-85b1-9bc49270bd58%40vvioletss.top%3A443%3Fencryption%3Dnone%26security%3Dtls%26type%3Dws%26host%3Dvvioletss.top%26fp%3Dchrome%26sni%3Dvvioletss.top%26path%3D%252fiexmws%23af85077c-VLESS_WS 
+
+=============================== VLESS gRPC TLS CDN ===============================
+ 
+
+ ---> 账号:af85077c-vless_grpc 
+
+ ---> 通用格式(VLESS+gRPC+TLS) 
+    vless://af85077c-8109-492b-85b1-9bc49270bd58@vvioletss.top:443?encryption=none&security=tls&type=grpc&host=vvioletss.top&path=iexmgrpc&fp=chrome&serviceName=iexmgrpc&alpn=h2&sni=vvioletss.top#af85077c-vless_grpc
+ 
+ ---> 格式化明文(VLESS+gRPC+TLS) 
+    协议类型:VLESS，地址:vvioletss.top，伪装域名/SNI:vvioletss.top，端口:443，用户ID:af85077c-8109-492b-85b1-9bc49270bd58，安全:tls，传输方式:gRPC，alpn:h2，client-fingerprint: chrome,serviceName:iexmgrpc，账户名:af85077c-vless_grpc
+ 
+ ---> 二维码 VLESS(VLESS+gRPC+TLS) 
+    https://api.qrserver.com/v1/create-qr-code/?size=400x400&data=vless%3A%2F%2Faf85077c-8109-492b-85b1-9bc49270bd58%40vvioletss.top%3A443%3Fencryption%3Dnone%26security%3Dtls%26type%3Dgrpc%26host%3Dvvioletss.top%26serviceName%3Diexmgrpc%26fp%3Dchrome%26path%3Diexmgrpc%26sni%3Dvvioletss.top%26alpn%3Dh2%23af85077c-vless_grpc 
+
+================================ VMess WS TLS CDN ================================
+ 
+
+ ---> 账号:af85077c-VMess_WS 
+
+ ---> 通用json(VMess+WS+TLS) 
+    {"port":443,"ps":"af85077c-VMess_WS","tls":"tls","id":"af85077c-8109-492b-85b1-9bc49270bd58","aid":0,"v":2,"host":"vvioletss.top","type":"none","path":"/iexmvws","net":"ws","add":"vvioletss.top","allowInsecure":0,"method":"none","peer":"vvioletss.top","sni":"vvioletss.top"}
+ 
+ ---> 通用vmess(VMess+WS+TLS)链接 
+    vmess://eyJwb3J0Ijo0NDMsInBzIjoiYWY4NTA3N2MtVk1lc3NfV1MiLCJ0bHMiOiJ0bHMiLCJpZCI6ImFmODUwNzdjLTgxMDktNDkyYi04NWIxLTliYzQ5MjcwYmQ1OCIsImFpZCI6MCwidiI6MiwiaG9zdCI6InZ2aW9sZXRzcy50b3AiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvaWV4bXZ3cyIsIm5ldCI6IndzIiwiYWRkIjoidnZpb2xldHNzLnRvcCIsImFsbG93SW5zZWN1cmUiOjAsIm1ldGhvZCI6Im5vbmUiLCJwZWVyIjoidnZpb2xldHNzLnRvcCIsInNuaSI6InZ2aW9sZXRzcy50b3AifQ==
+ 
+ ---> 二维码 vmess(VMess+WS+TLS) 
+    https://api.qrserver.com/v1/create-qr-code/?size=400x400&data=vmess://eyJwb3J0Ijo0NDMsInBzIjoiYWY4NTA3N2MtVk1lc3NfV1MiLCJ0bHMiOiJ0bHMiLCJpZCI6ImFmODUwNzdjLTgxMDktNDkyYi04NWIxLTliYzQ5MjcwYmQ1OCIsImFpZCI6MCwidiI6MiwiaG9zdCI6InZ2aW9sZXRzcy50b3AiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvaWV4bXZ3cyIsIm5ldCI6IndzIiwiYWRkIjoidnZpb2xldHNzLnRvcCIsImFsbG93SW5zZWN1cmUiOjAsIm1ldGhvZCI6Im5vbmUiLCJwZWVyIjoidnZpb2xldHNzLnRvcCIsInNuaSI6InZ2aW9sZXRzcy50b3AifQ==
+ 
+
+==================================  Trojan TLS  ==================================
+ 
+
+ ---> 账号:af85077c-trojan_tcp 
+ ---> Trojan(TLS) 
+    trojan://af85077c-8109-492b-85b1-9bc49270bd58@vvioletss.top:443?peer=vvioletss.top&fp=chrome&sni=vvioletss.top&alpn=http/1.1#vvioletss.top_Trojan
+ 
+ ---> 二维码 Trojan(TLS) 
+    https://api.qrserver.com/v1/create-qr-code/?size=400x400&data=trojan%3a%2f%2faf85077c-8109-492b-85b1-9bc49270bd58%40vvioletss.top%3a443%3fpeer%3dvvioletss.top%26fp%3Dchrome%26sni%3dvvioletss.top%26alpn%3Dhttp/1.1%23af85077c-trojan_tcp
+ 
+
+================================  Trojan gRPC TLS  ================================
+ 
+
+ ---> 账号:af85077c-Trojan_gRPC 
+
+ ---> Trojan gRPC(TLS) 
+    trojan://af85077c-8109-492b-85b1-9bc49270bd58@vvioletss.top:443?encryption=none&peer=vvioletss.top&fp=chrome&security=tls&type=grpc&sni=vvioletss.top&alpn=h2&path=iexmtrojangrpc&serviceName=iexmtrojangrpc#af85077c-Trojan_gRPC
+ 
+ ---> 二维码 Trojan gRPC(TLS) 
+    https://api.qrserver.com/v1/create-qr-code/?size=400x400&data=trojan%3a%2f%2faf85077c-8109-492b-85b1-9bc49270bd58%40vvioletss.top%3a443%3Fencryption%3Dnone%26fp%3Dchrome%26security%3Dtls%26peer%3dvvioletss.top%26type%3Dgrpc%26sni%3dvvioletss.top%26path%3Diexmtrojangrpc%26alpn%3Dh2%26serviceName%3Diexmtrojangrpc%23af85077c-Trojan_gRPC
+ 
+============================= VLESS reality_vision  ==============================
+ 
+
+ ---> 账号:af85077c-vless_reality_vision 
+
+ ---> 通用格式(VLESS+reality+uTLS+Vision) 
+    vless://af85077c-8109-492b-85b1-9bc49270bd58@vvioletss.top:443?encryption=none&security=reality&type=tcp&sni=vvioletss.top&fp=chrome&pbk=UnV-9H2L7ooxqErWqtxeWAnHi2CJXREbSINTf6AgUi4&sid=6ba85179e30d4fc2&flow=xtls-rprx-vision#af85077c-vless_reality_vision
+ 
+ ---> 格式化明文(VLESS+reality+uTLS+Vision) 
+协议类型:VLESS reality，地址:vvioletss.top，publicKey:UnV-9H2L7ooxqErWqtxeWAnHi2CJXREbSINTf6AgUi4，shortId: 6ba85179e30d4fc2,serverNames：vvioletss.top，端口:443，用户ID:af85077c-8109-492b-85b1-9bc49270bd58，传输方式:tcp，账户名:af85077c-vless_reality_vision
+ 
+ ---> 二维码 VLESS(VLESS+reality+uTLS+Vision) 
+    https://api.qrserver.com/v1/create-qr-code/?size=400x400&data=vless%3A%2F%2Faf85077c-8109-492b-85b1-9bc49270bd58%40vvioletss.top%3A443%3Fencryption%3Dnone%26security%3Dreality%26type%3Dtcp%26sni%3Dvvioletss.top%26fp%3Dchrome%26pbk%3DUnV-9H2L7ooxqErWqtxeWAnHi2CJXREbSINTf6AgUi4%26sid%3D6ba85179e30d4fc2%26flow%3Dxtls-rprx-vision%23af85077c-vless_reality_vision
+ 
+============================== VLESS reality_gRPC  ===============================
+ 
+
+ ---> 账号:af85077c-vless_reality_grpc 
+
+ ---> 通用格式(VLESS+reality+uTLS+gRPC) 
+    vless://af85077c-8109-492b-85b1-9bc49270bd58@vvioletss.top:443?encryption=none&security=reality&type=grpc&sni=vvioletss.top&fp=chrome&pbk=UnV-9H2L7ooxqErWqtxeWAnHi2CJXREbSINTf6AgUi4&sid=6ba85179e30d4fc2&path=grpc&serviceName=grpc#af85077c-vless_reality_grpc
+ 
+ ---> 格式化明文(VLESS+reality+uTLS+gRPC) 
+协议类型:VLESS reality，serviceName:grpc，地址:vvioletss.top，publicKey:UnV-9H2L7ooxqErWqtxeWAnHi2CJXREbSINTf6AgUi4，shortId: 6ba85179e30d4fc2，serverNames：vvioletss.top，端口:443，用户ID:af85077c-8109-492b-85b1-9bc49270bd58，传输方式:gRPC，client-fingerprint：chrome，账户名:af85077c-vless_reality_grpc
+ 
+ ---> 二维码 VLESS(VLESS+reality+uTLS+gRPC) 
+    https://api.qrserver.com/v1/create-qr-code/?size=400x400&data=vless%3A%2F%2Faf85077c-8109-492b-85b1-9bc49270bd58%40vvioletss.top%3A443%3Fencryption%3Dnone%26security%3Dreality%26type%3Dgrpc%26sni%3Dvvioletss.top%26fp%3Dchrome%26pbk%3DUnV-9H2L7ooxqErWqtxeWAnHi2CJXREbSINTf6AgUi4%26pbk%3D6ba85179e30d4fc2%26path%3Dgrpc%26serviceName%3Dgrpc%23af85077c-vless_reality_grpc
